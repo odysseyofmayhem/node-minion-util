@@ -1,0 +1,15 @@
+{
+  "name": "MinionUtil",
+  "version": "0.0.1",
+  "description": "General utility libraries",
+  "keywords": [],
+  "homepage": "http://www.miniondome.com/",
+  "author": "Lee McNeil",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">= 0.8.4"
+  },
+  "license": "MIT"
+}
